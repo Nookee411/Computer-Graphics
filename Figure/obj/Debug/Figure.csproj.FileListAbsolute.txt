@@ -1,0 +1,10 @@
+C:\Users\danii\source\repos\GraphicsWork\Figure\bin\Debug\Figure.exe.config
+C:\Users\danii\source\repos\GraphicsWork\Figure\bin\Debug\Figure.exe
+C:\Users\danii\source\repos\GraphicsWork\Figure\bin\Debug\Figure.pdb
+C:\Users\danii\source\repos\GraphicsWork\Figure\obj\Debug\Figure.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\GraphicsWork\Figure\obj\Debug\Figure.Form1.resources
+C:\Users\danii\source\repos\GraphicsWork\Figure\obj\Debug\Figure.Properties.Resources.resources
+C:\Users\danii\source\repos\GraphicsWork\Figure\obj\Debug\Figure.csproj.GenerateResource.cache
+C:\Users\danii\source\repos\GraphicsWork\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\GraphicsWork\Figure\obj\Debug\Figure.exe
+C:\Users\danii\source\repos\GraphicsWork\Figure\obj\Debug\Figure.pdb

@@ -1,0 +1,10 @@
+C:\Users\danii\source\repos\GraphicsWork\Fractals\bin\Debug\Fractals.exe.config
+C:\Users\danii\source\repos\GraphicsWork\Fractals\bin\Debug\Fractals.exe
+C:\Users\danii\source\repos\GraphicsWork\Fractals\bin\Debug\Fractals.pdb
+C:\Users\danii\source\repos\GraphicsWork\Fractals\obj\Debug\Fractals.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\GraphicsWork\Fractals\obj\Debug\Fractals.Form1.resources
+C:\Users\danii\source\repos\GraphicsWork\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Users\danii\source\repos\GraphicsWork\Fractals\obj\Debug\Fractals.csproj.GenerateResource.cache
+C:\Users\danii\source\repos\GraphicsWork\Fractals\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\GraphicsWork\Fractals\obj\Debug\Fractals.exe
+C:\Users\danii\source\repos\GraphicsWork\Fractals\obj\Debug\Fractals.pdb
